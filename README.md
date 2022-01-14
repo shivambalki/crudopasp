@@ -47,7 +47,8 @@ Learnings:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![valid](https://user-images.githubusercontent.com/78531352/149493973-2c1504cf-dd08-4435-9804-d6285ec8b2eb.JPG)
 
 
 ## FAQ
