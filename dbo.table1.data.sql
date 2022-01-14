@@ -1,0 +1,27 @@
+﻿SET IDENTITY_INSERT [dbo].[table1] ON
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (1, N'Shivam', N'&gt;', N'shivamqw123', N'Nagpur', N'39393')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (2, N'', N'', N'', N'', N'')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (3, N'', N'', N'', N'', N'')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (4, N'Shivam', N'&gt;', N'sam2@gmail.com', N'ee', N'ddd')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (5, N'ff', N'', N'22@n.cpm', N'dde', N'3')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (6, N'', N'&gt;', N'dd@gmal.com', N'Nagpur', N'8899332210')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (7, N'sav', N'&gt;', N'xx@dd.com', N'nagpur', N'9764065765')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (8, N'', N'&gt;', N'', N'', N'')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (9, N'', N'', N'', N'', N'')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (10, N'', N'', N'', N'ss', N'')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (18, N'sam', N'&gt;', N'emeem@dd.com', N'naddd', N'9390330930')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (19, N'sam', N'&gt;', N'emeem@dd.com', N'naddd', N'9390330930')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (20, N'sam', N'&gt;', N'emeem@dd.com', N'naddd', N'9390330930')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (27, N'sam', N'&gt;', N'shivam@gmail.com', N'Nagpur', N'9848377386')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (28, N'saaam`', N'&gt;', N'ss@f.c', N'ddkdk', N'9543322222')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (29, N'raju', N'&gt;', N'qw@a.b', N'q', N'9999999999')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (32, N'qqq', N'&gt;', N's@hhg.com', N'ww', N'9834380933')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (33, N'rutik', N'12/7/2021', N'emeem@dd.com', N'e', N'9764065765')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (34, N'Shaalen', N'6/9/2022', N'saheln@gma.com', N'ff', N'9873663737')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (35, N'Abhi', N'5/6/2022', N'shiv@gmail.com', N'Nagpur', N'9689272407')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (36, N'Abhi', N'5/6/2022', N'shiv@gmail.com', N'Nagpur', N'9689272407')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (37, N'sammmal', N'1/6/2022 12:00:00 AM', N'samal@gmail.com', N'nashik', N'9111111111')
+INSERT INTO [dbo].[table1] ([id], [Name], [Dob], [Email], [City], [Phone]) VALUES (38, N'sakshi', N'2022', N's@gmail.cop', N'nnag', N'9873663737')
+SET IDENTITY_INSERT [dbo].[table1] OFF
+select * from table1;
+delete from table1;
