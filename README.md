@@ -46,20 +46,25 @@ Learnings:
 
 
 ## Screenshots
+UI:
+![Capture2](https://user-images.githubusercontent.com/78531352/149494660-03aeb4f9-921f-48f4-99dd-0dc10a9452f8.JPG)
 
 
+ASP controls-
+![Capture](https://user-images.githubusercontent.com/78531352/149494541-37a880c0-b13f-4fc1-a54e-74a6dd57883e.JPG)
+
+
+Validation-
 ![valid](https://user-images.githubusercontent.com/78531352/149493973-2c1504cf-dd08-4435-9804-d6285ec8b2eb.JPG)
 
+Age Validation-
+![18](https://user-images.githubusercontent.com/78531352/149494372-b9ded454-cc85-421f-8d7e-9e35df229412.JPG)
 
-## FAQ
+Database-
+![DBB](https://user-images.githubusercontent.com/78531352/149494465-6eabf32e-a1d6-4639-b047-252f72e08bce.JPG)
 
-#### Question 1
+![db](https://user-images.githubusercontent.com/78531352/149494431-018755ce-9b98-49b0-be35-40ba1a17555e.JPG)
 
-Answer 1
-
-#### Question 2
-
-Answer 2
 
 
 ## Authors
